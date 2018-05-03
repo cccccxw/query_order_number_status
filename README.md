@@ -10,7 +10,7 @@ query_order_number_status
 
 # 使用方法
 ```sh
-# 为安全需求网页请手动输入，更改main.py 和util.req的里面的网址部分
+# 为安全需求网页请手动输入，更改main.py 和util.http_req的里面的网址部分
 # 由主程序入口调用程序
 # python main.py 
 # 按提示操作
